@@ -1,4 +1,3 @@
-# TEAM-VYAKRITI_IC-HACK
 # OPTIMIZING TRANSPORT EFFICIENCY
 
 **🚦Traffic congestion and road safety issues in urban areas, exacerbated by poor infrastructure and public behavior, pose significant challenges to efficient transportation and public safety. Despite efforts to alleviate these problems, cities continue to grapple with traffic-related issues that have far-reaching economic, environmental, and social impacts. This problem statement aims to define and analyze the multifaceted nature of traffic problems and the limitations of current solutions, with a focus on the potential role of drones in addressing specific aspects.** 
