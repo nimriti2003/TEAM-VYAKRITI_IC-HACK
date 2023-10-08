@@ -28,9 +28,7 @@
  * Lack of integration between transportation modes and urban sprawl can lead to longer commutes, further exacerbating traffic congestion and environmental concerns.
 
  **## SOLUTION APPROACH**
-<<<<<<< HEAD
-  
-=======
+
  
  *Simulation*
  
