@@ -40,4 +40,4 @@
 *Solution*
 
 ![IC HACK - Vyakriti](https://github.com/nimriti2003/TEAM-VYAKRITI_IC-HACK/assets/118421155/8fff337d-f3e4-4f12-b79c-2a46a8754ce3)
->>>>>>> aa378fb97417505b6395e5b38fcbff86e2dbbacb
+
