@@ -41,3 +41,8 @@
 
 ![IC HACK - Vyakriti](https://github.com/nimriti2003/TEAM-VYAKRITI_IC-HACK/assets/118421155/8fff337d-f3e4-4f12-b79c-2a46a8754ce3)
 
+**DRONE TESTING VIDEO**
+
+
+https://github.com/nimriti2003/TEAM-VYAKRITI_IC-HACK/assets/118421155/cd1dfaff-8655-4671-a30e-31cc01aadf87
+
